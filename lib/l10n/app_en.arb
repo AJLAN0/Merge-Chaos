@@ -1,0 +1,81 @@
+{
+  "@@locale": "en",
+  "appTitle": "Merge Chaos",
+  "play": "PLAY",
+  "collection": "Collection",
+  "shop": "Shop",
+  "settings": "Settings",
+  "dailyRewards": "Daily Rewards",
+  "tasks": "Tasks",
+  "spawn": "Spawn",
+  "coins": "Coins",
+  "newDiscovery": "New Discovery!",
+  "continueBtn": "Continue",
+  "discovered": "Discovered",
+  "locked": "Locked",
+  "progressFormat": "{current} / {total}",
+  "@progressFormat": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "tier": "Tier {level}",
+  "@tier": {
+    "placeholders": {
+      "level": {"type": "int"}
+    }
+  },
+  "spawnCost": "Spawn ({cost})",
+  "@spawnCost": {
+    "placeholders": {
+      "cost": {"type": "int"}
+    }
+  },
+  "boardFull": "Board is full!",
+  "notEnoughCoins": "Not enough coins!",
+  "claimReward": "Claim",
+  "claimed": "Claimed",
+  "day": "Day {number}",
+  "@day": {
+    "placeholders": {
+      "number": {"type": "int"}
+    }
+  },
+  "dailyMergeTask": "Perform {target} merges",
+  "@dailyMergeTask": {
+    "placeholders": {
+      "target": {"type": "int"}
+    }
+  },
+  "dailyDiscoverTask": "Discover {target} new creatures",
+  "@dailyDiscoverTask": {
+    "placeholders": {
+      "target": {"type": "int"}
+    }
+  },
+  "dailyCoinsTask": "Earn {target} coins",
+  "@dailyCoinsTask": {
+    "placeholders": {
+      "target": {"type": "int"}
+    }
+  },
+  "music": "Music",
+  "sfx": "Sound Effects",
+  "vibration": "Vibration",
+  "language": "Language",
+  "welcomeTitle": "Welcome to the Chaos Lab!",
+  "welcomeSubtitle": "Merge creatures and discover the unexpected.",
+  "mergeTitle": "Merge to Evolve",
+  "mergeSubtitle": "Drag identical creatures together to create something new.",
+  "collectTitle": "Collect Them All",
+  "collectSubtitle": "Build your collection of increasingly chaotic creatures.",
+  "letsGo": "Let's Go!",
+  "skip": "Skip",
+  "common": "Common",
+  "uncommon": "Uncommon",
+  "rare": "Rare",
+  "epic": "Epic",
+  "legendary": "Legendary",
+  "maxTierReached": "Max tier reached!"
+}
